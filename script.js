@@ -5,8 +5,6 @@ const para = document.createElement("p")
 const bgp = document.createElement("div")
 const ipara = document.createElement("p")
 
-
-
 container.appendChild(thing)
 container.appendChild(bgp)
 container.appendChild(para)
